@@ -6,6 +6,7 @@ pub mod ciphers;
 pub mod compression;
 pub mod conversions;
 pub mod data_structures;
+pub mod divide_and_conquer;
 pub mod dynamic_programming;
 pub mod general;
 pub mod geometry;
